@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mdespang/mdespang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I am Michael Despang and am primarily a back-end java web developer, specializing in the service and database layer with technologies such as Spring, Hibernate, and PL/SQL with some working knowledge of JavaScript.
